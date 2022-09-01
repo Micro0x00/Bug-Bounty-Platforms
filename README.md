@@ -1,35 +1,22 @@
-[YesWeHack](https://www.yeswehack.com/)
-[Antihack.me](https://www.antihack.me/leaderboard)
-[Bug Hunt] (https://bughunt.com.br)
-[bugbounty.jp] 
-(https://bugbounty.jp/users/ranking)
-[ bugbounty.sa ]
-(https://bugbounty.sa/leaderboard)
-[BUG V]
-(https://bugv.io)
-[Bugbase]
-(https://bugbase.in/)
-[inspective(Cesppa)]
-(www.inspectiv.com)
-[Cobalt]
-(https://app.cobalt.io/pentesters)
-[Detectify]
-(https://detectify.com/.../ethical-hacking-with-crowdsource)
-[Yogosha]
-(https://yogosha.com)
-[WhiteHub]
-(https://whitehub.net/leaderboard)
-[synack]
-(https://www.synack.com/)
-[REDSTORM]
-(https://www.redstorm.io)
-[Intigriti]
-(https://www.intigriti.com/)
-[hunter.dev]
-(https://huntr.dev/leaderboard/)
-[epic bounties]
-(https://www.epicbounties.com/)
-[Hackenproof]
-(https://hackenproof.com/)
-[pentabug]
-(https://www.pentabug.com/)
+
+| Name  | link |
+| ------------- | ------------- |
+| YesWeHack  |   [Here](https://www.yeswehack.com)   |
+| Antihack.me  |[Here](https://www.antihack.me/leaderboard)|
+| Bughunt.com.br  |   [Here](https://bughunt.com.br)  |
+| Bugbounty Japan  |[Here](https://bugbounty.jp/users/ranking)|
+| inspective(Cesppa)  |   [Here](www.inspectiv.com)   |
+| Bug Bounty saudia  |[Here](https://bugbounty.sa/leaderboard)|
+| BUG V |   [Here](https://bugv.io)   |
+| Bugbase |[Here](https://bugbase.in)|
+| Cobalt  |   [Here](https://app.cobalt.io/pentesters)   |
+| Detectify  |[Here](https://detectify.com/.../ethical-hacking-with-crowdsource)|
+| Yogosha  |   [Here](https://yogosha.com)   |
+| WhiteHub  |[Here](https://whitehub.net/leaderboard)|
+| synack  |[Here](https://www.synack.com/)|
+| REDSTORM  |[Here](https://www.redstorm.io)|
+| Intigriti  |[Here](https://www.intigriti.com/)|
+| hunter.dev  |[Here](https://huntr.dev/leaderboard)|
+| pentabug |[Here](https://www.pentabug.com/)|
+| Hackenproof  |[Here](https://hackenproof.com/)|
+| epic bounties  |[Here](https://www.epicbounties.com)|
