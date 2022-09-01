@@ -1,9 +1,6 @@
-[YesWeHack]
-(https://www.yeswehack.com/)
-[Antihack.me]
-(https://www.antihack.me/leaderboard)
-[Bug Hunt] 
-(https://bughunt.com.br)
+[YesWeHack](https://www.yeswehack.com/)
+[Antihack.me](https://www.antihack.me/leaderboard)
+[Bug Hunt] (https://bughunt.com.br)
 [bugbounty.jp] 
 (https://bugbounty.jp/users/ranking)
 [ bugbounty.sa ]
