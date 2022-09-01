@@ -1,4 +1,4 @@
-# Bug Bounty Platforms other than Facebook and Twitter Platforms :purple_heart:
+# Bug Bounty Platforms other than Hackerone and Bugcrowd Platforms :purple_heart:
 
 | Name  | link |
 | ------------- | ------------- |
