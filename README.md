@@ -1,3 +1,4 @@
+# Bug Bounty Platforms other than Facebook and Twitter Platforms :purple_heart:
 
 | Name  | link |
 | ------------- | ------------- |
