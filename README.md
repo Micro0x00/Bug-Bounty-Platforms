@@ -2,6 +2,7 @@
 
 | Name  | link |
 | ------------- | ------------- |
+| Opire  |   [Here](https://opire.dev)   |
 | YesWeHack  |   [Here](https://www.yeswehack.com)   |
 | Antihack.me  |[Here](https://www.antihack.me/leaderboard)|
 | Bughunt.com.br  |   [Here](https://bughunt.com.br)  |
